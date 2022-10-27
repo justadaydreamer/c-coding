@@ -1,4 +1,4 @@
-//เทสต์มีเดียแลบ
+// 16 Base Binary Claculator
 #include <stdio.h>
 
 
